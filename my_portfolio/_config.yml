@@ -1,0 +1,17 @@
+title: "Ju-seok's Firmware Log"
+email: your-email@domain.com
+description: >- # 메타 태그 설명
+  임베디드 시스템과 펌웨어 개발 포트폴리오 블로그입니다.
+baseurl: "" # 서브패스가 없다면 비워둡니다.
+url: "https://yourusername.github.io" 
+twitter_username: juseok_dev
+github_username:  yourusername
+
+# 중요: GitHub Pages 기본 테마 사용
+theme: minima
+
+# 코드 하이라이팅 설정
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
