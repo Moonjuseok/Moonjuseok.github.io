@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
-
     <header>
         <div class="container">
             <h1 class="logo">M.JuSeok</h1>
@@ -22,7 +21,6 @@
             </nav>
         </div>
     </header>
-
     <section id="hero">
         <div class="hero-content">
             <h2>Hello, I'm <span class="highlight">Moon Ju-seok</span></h2>
@@ -30,7 +28,6 @@
             <a href="#projects" class="btn">프로젝트 보기</a>
         </div>
     </section>
-
     <section id="about" class="container section-padding">
         <h2 class="section-title">About Me</h2>
         <div class="about-grid">
@@ -47,7 +44,6 @@
             </div>
         </div>
     </section>
-
     <section id="skills" class="bg-dark section-padding">
         <div class="container">
             <h2 class="section-title">Tech Stack</h2>
@@ -70,7 +66,6 @@
             </div>
         </div>
     </section>
-
     <section id="projects" class="container section-padding">
         <h2 class="section-title">Projects</h2>
         <div class="project-grid">
